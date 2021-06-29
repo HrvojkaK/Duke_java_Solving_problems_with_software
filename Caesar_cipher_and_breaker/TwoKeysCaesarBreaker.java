@@ -1,5 +1,3 @@
-package Caesar_cipher_and_breaker;
-
 
 /**
  * breakTwoKeys method breaks the message into two: counting letters in the original, it makes a string with just the odd letters, 

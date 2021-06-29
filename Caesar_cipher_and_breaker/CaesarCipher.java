@@ -1,4 +1,3 @@
-package Caesar_cipher_and_breaker;
 
 /**
  * given an integer key, can either encrypt (via encrypt method) or decrypt (decrypt method) a message passed in
