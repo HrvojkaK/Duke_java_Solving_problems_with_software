@@ -10,3 +10,6 @@ corresponding index locations of the myFreqs ArrayList
 method findIndexOfMax finds the index of the word with max occurence in myWords
 
 test method is just to test WordFrequencies
+
+
+WordFrequenciesHashMap is the same as WordFrequencies, except it uses HashMap instead of ArrayLists to count and store unique words.
