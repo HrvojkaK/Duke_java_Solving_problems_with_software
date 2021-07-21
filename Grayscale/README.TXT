@@ -6,3 +6,7 @@ https://www.dukelearntoprogram.com//course2/index.php
 The library can also be downloaded separately as JAR, from:
 https://www.dukelearntoprogram.com//downloads/bluej.php?course=2
 (edu.duke link, bottom of the page).
+
+
+
+**assignment 4, for Duke Uni's Java programming: Solving Problems with Software course on Coursera**
