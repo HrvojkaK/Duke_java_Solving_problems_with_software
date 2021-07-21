@@ -13,3 +13,6 @@ test method is just to test WordFrequencies
 
 
 WordFrequenciesHashMap is the same as WordFrequencies, except it uses HashMap instead of ArrayLists to count and store unique words.
+
+
+**assignment 2.1, for Duke Uni's Java programming: Arrays, Lists and Structured Data course on Coursera**
