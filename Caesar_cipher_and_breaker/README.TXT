@@ -21,3 +21,5 @@ TwoKeysCaesarBreaker decrypts an encrypted message, assuming it was encrypted us
 breakTwoKeys() method breaks the message into two: counting letters in the original, it makes a string with just the odd letters, 
 and a string just with even. Then decrypts these two separately (finds two keys, with getKey() method).
  
+ 
+ **assignment 1, for Duke Uni's Java programming: Arrays, Lists and Structured Data course on Coursera**
