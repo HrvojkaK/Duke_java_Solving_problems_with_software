@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Greenscreen replacement page</title> <link rel="stylesheet" href="style.css">
+</head>  
+  
+  
+<body>  
+
+<script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js" >
+</script>
+
+<h1>Green screen replacement</h1>
+
+<canvas id = "greencan">
+</canvas>
+<canvas id = "backcan">
+</canvas>
+<canvas id = "resultcan">
+</canvas>
+
+<p>
+Green screen image: <input type="file" multiple="false" accept="image/*" id="greenfile" onchange="loadGreenImage()" >
+</p>
+
+<p>
+Background image: <input type="file" multiple="false" accept="image/*" id="backfile" onchange="loadBackImage()" >
+</p>
+
+<p>
+<input type="button" value="Replace greenscreen" onclick="replaceGreenScreen()" >
+<input type="button" value="Clear Canvases" onclick="clearCanvas()" >
+</p>
+
+<script src="script.js"></script>
+</body>  
+</html>  

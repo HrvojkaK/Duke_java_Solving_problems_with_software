@@ -1,0 +1,17 @@
+#title {text-align: center; color: green;}
+h2 {text-align: center; color: red;}
+h4 {text-align: center; color: blue;}
+
+
+.foodLi {color: purple;}
+
+#pic {float:center;}
+
+.redback { background-color: red; }
+
+
+canvas {
+  width: 200px;
+  height: 100px;
+  border: 1px solid #c3c3c3;
+}

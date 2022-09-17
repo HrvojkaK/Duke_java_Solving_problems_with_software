@@ -1,0 +1,2 @@
+A webpage where 2 images can be loaded: one with greenscreen, ant the other with some desired background.
+Then a new image is created and displayed, where the greenscreen on the first image is replaced with whatever is depicted on the background image.
